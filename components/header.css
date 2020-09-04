@@ -1,0 +1,9 @@
+.header-style  {
+    background-color: blueviolet;
+}
+
+.header-style h1 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
